@@ -17,7 +17,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 ## 🔧 Actively Maintaining
 
-**VibePod** — AI coding agent runner
+**[VibePod](https://github.com/vibepod)** — AI coding agent runner
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
@@ -26,7 +26,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 | [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | — |
 | [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | — |
 
-**SnyPy** — self-hosted code snippet manager
+**[SnyPy](https://github.com/snypy)** — self-hosted code snippet manager
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
