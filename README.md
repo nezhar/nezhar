@@ -21,32 +21,32 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 15 |
+| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 63 |
 | [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | — |
 | [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | — |
-| [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | — |
+| [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 1 |
 
 **[SnyPy](https://github.com/snypy)** — self-hosted code snippet manager
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [snypy-frontend](https://github.com/snypy/snypy-frontend) | Web UI | ★ 62 |
-| [snypy-docker](https://github.com/snypy/snypy-docker) | Docker setup | ★ 43 |
+| [snypy-frontend](https://github.com/snypy/snypy-frontend) | Web UI | ★ 63 |
+| [snypy-docker](https://github.com/snypy/snypy-docker) | Docker setup | ★ 44 |
 | [snypy-backend](https://github.com/snypy/snypy-backend) | REST API & admin | ★ 12 |
 
 **Container Setups** — Docker Compose environments for local development
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2k |
+| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,034 |
 | [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 68 |
-| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 153 |
+| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 158 |
 
 **Django & API Tooling**
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [django-rest-passwordreset](https://github.com/anexia-it/django-rest-passwordreset) | Configurable password reset for Django REST Framework | ★ 439 |
+| [django-rest-passwordreset](https://github.com/anexia-it/django-rest-passwordreset) | Configurable password reset for Django REST Framework | ★ 440 |
 | [django-request-cache](https://github.com/anexia/django-request-cache) | Per-request cache scoped to the request/response cycle | ★ 29 |
 | [updatable](https://github.com/nezhar/updatable) | Identifies outdated packages in Python environments | ★ 22 |
 | [drf-multitokenauth](https://github.com/anexia/drf-multitokenauth) | Multiple auth tokens per user for Django REST Framework | ★ 13 |
@@ -57,7 +57,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 | [django-aws-iot](https://github.com/anexia/django-aws-iot) | Minimalistic AWS IoT integration for Django | ★ 2 |
 | [anexia-monitoring-django](https://github.com/anexia-it/anexia-monitoring-django) | Monitor Django and package updates in production | ★ 2 |
 | [drf-simple-access-key](https://github.com/anexia/drf-simple-access-key) | Simple token authorization for Django REST Framework | — |
-| [drf-anonymous-login](https://github.com/anexia/drf-anonymous-login) | Anonymous login via token for Django REST Framework | — |
+| [drf-anonymous-login](https://github.com/anexia/drf-anonymous-login) | Anonymous login via token for Django REST Framework | ★ 2 |
 | [drf-generic-contact](https://github.com/anexia/drf-generic-contact) | Generic contact form endpoint for Django REST Framework | — |
 | [django-model-prefix](https://github.com/anexia/django-model-prefix) | Global or per-model database table prefix for Django | — |
 | [python-content-disposition](https://github.com/anexia/python-content-disposition) | Content-Disposition header helper for Python | — |
