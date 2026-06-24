@@ -21,7 +21,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 70 |
+| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 83 |
 | [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | — |
 | [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | — |
 | [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 2 |
@@ -31,22 +31,22 @@ I contribute to open source and write about software, AI, and infrastructure at 
 | Repository | Description | Stars |
 |------------|-------------|-------|
 | [snypy-frontend](https://github.com/snypy/snypy-frontend) | Web UI | ★ 62 |
-| [snypy-docker](https://github.com/snypy/snypy-docker) | Docker setup | ★ 42 |
-| [snypy-backend](https://github.com/snypy/snypy-backend) | REST API & admin | ★ 11 |
+| [snypy-docker](https://github.com/snypy/snypy-docker) | Docker setup | ★ 43 |
+| [snypy-backend](https://github.com/snypy/snypy-backend) | REST API & admin | ★ 12 |
 
 **Container Setups** — Docker Compose environments for local development
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,033 |
+| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,034 |
 | [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 70 |
-| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 162 |
+| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 168 |
 
 **Django & API Tooling**
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [django-rest-passwordreset](https://github.com/anexia-it/django-rest-passwordreset) | Configurable password reset for Django REST Framework | ★ 441 |
+| [django-rest-passwordreset](https://github.com/anexia-it/django-rest-passwordreset) | Configurable password reset for Django REST Framework | ★ 440 |
 | [django-request-cache](https://github.com/anexia/django-request-cache) | Per-request cache scoped to the request/response cycle | ★ 29 |
 | [updatable](https://github.com/nezhar/updatable) | Identifies outdated packages in Python environments | ★ 22 |
 | [drf-multitokenauth](https://github.com/anexia/drf-multitokenauth) | Multiple auth tokens per user for Django REST Framework | ★ 13 |
