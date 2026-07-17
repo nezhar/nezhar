@@ -21,9 +21,9 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 83 |
+| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 96 |
 | [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | — |
-| [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | — |
+| [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | ★ 1 |
 | [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 2 |
 
 **[SnyPy](https://github.com/snypy)** — self-hosted code snippet manager
@@ -38,15 +38,15 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,034 |
-| [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 70 |
-| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 168 |
+| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,036 |
+| [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 71 |
+| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 170 |
 
 **Django & API Tooling**
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [django-rest-passwordreset](https://github.com/anexia-it/django-rest-passwordreset) | Configurable password reset for Django REST Framework | ★ 440 |
+| [django-rest-passwordreset](https://github.com/anexia-it/django-rest-passwordreset) | Configurable password reset for Django REST Framework | ★ 438 |
 | [django-request-cache](https://github.com/anexia/django-request-cache) | Per-request cache scoped to the request/response cycle | ★ 29 |
 | [updatable](https://github.com/nezhar/updatable) | Identifies outdated packages in Python environments | ★ 22 |
 | [drf-multitokenauth](https://github.com/anexia/drf-multitokenauth) | Multiple auth tokens per user for Django REST Framework | ★ 13 |
