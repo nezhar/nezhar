@@ -21,10 +21,13 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 109 |
+| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 135 |
 | [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | — |
 | [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | ★ 1 |
 | [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 2 |
+| [vibepod-board](https://github.com/vibepod/vibepod-board) | MCP-ready planning board | — |
+| [vibepod-skills-engine](https://github.com/vibepod/vibepod-skills-engine) | Agent skill manager | — |
+| [homebrew-vibepod](https://github.com/vibepod/homebrew-vibepod) | Official Homebrew tap | ★ 3 |
 
 **[SnyPy](https://github.com/snypy)** — self-hosted code snippet manager
 
@@ -38,9 +41,9 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,036 |
+| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,040 |
 | [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 71 |
-| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 171 |
+| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 173 |
 
 **Django & API Tooling**
 
