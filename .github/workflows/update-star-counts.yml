@@ -1,0 +1,46 @@
+name: Update star counts
+
+on:
+  schedule:
+    # Mondays, 06:17 UTC
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-star-counts
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Refresh README star counts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Run the updater tests
+        working-directory: .github/scripts
+        run: python -m unittest discover --verbose
+
+      - name: Refresh the star counts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_stars.py
+
+      - name: Open a pull request
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
+        with:
+          branch: chore/star-counts
+          delete-branch: true
+          commit-message: Updated README.md with the current GitHub star counts
+          title: Updated README.md with the current GitHub star counts
+          body: |
+            Automated refresh of the star counts in `README.md`.
+
+            See the [job summary](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for the repositories that changed.
+          labels: automated
+          add-paths: README.md
