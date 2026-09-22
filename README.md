@@ -21,12 +21,12 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 150 |
-| [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | — |
-| [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | ★ 2 |
-| [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 2 |
-| [vibepod-board](https://github.com/vibepod/vibepod-board) | MCP-ready planning board | — |
-| [vibepod-skills-engine](https://github.com/vibepod/vibepod-skills-engine) | Agent skill manager | — |
+| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 166 |
+| [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | ★ 1 |
+| [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | ★ 3 |
+| [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 3 |
+| [vibepod-board](https://github.com/vibepod/vibepod-board) | MCP-ready planning board | ★ 1 |
+| [vibepod-skills-engine](https://github.com/vibepod/vibepod-skills-engine) | Agent skill manager | ★ 1 |
 | [homebrew-vibepod](https://github.com/vibepod/homebrew-vibepod) | Official Homebrew tap | ★ 3 |
 
 **[SnyPy](https://github.com/snypy)** — self-hosted code snippet manager
@@ -43,7 +43,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 |------------|-------------|-------|
 | [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,039 |
 | [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 72 |
-| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 174 |
+| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 175 |
 
 **Django & API Tooling**
 
@@ -51,7 +51,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 |------------|-------------|-------|
 | [django-rest-passwordreset](https://github.com/anexia-it/django-rest-passwordreset) | Configurable password reset for Django REST Framework | ★ 437 |
 | [django-request-cache](https://github.com/anexia/django-request-cache) | Per-request cache scoped to the request/response cycle | ★ 29 |
-| [updatable](https://github.com/nezhar/updatable) | Identifies outdated packages in Python environments | ★ 22 |
+| [updatable](https://github.com/nezhar/updatable) | Identifies outdated packages in Python environments | ★ 23 |
 | [drf-multitokenauth](https://github.com/anexia/drf-multitokenauth) | Multiple auth tokens per user for Django REST Framework | ★ 13 |
 | [django-cleanhtmlfield](https://github.com/anexia/django-cleanhtmlfield) | HTML sanitization field for Django models | ★ 7 |
 | [drf-ip-restrictions](https://github.com/anexia/drf-ip-restrictions) | IP-based access control for Django REST Framework | ★ 4 |
