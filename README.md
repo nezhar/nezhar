@@ -21,7 +21,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 166 |
+| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 170 |
 | [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | ★ 1 |
 | [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | ★ 3 |
 | [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 3 |
@@ -41,8 +41,8 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,039 |
-| [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 72 |
+| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,038 |
+| [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 73 |
 | [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 175 |
 
 **Django & API Tooling**
