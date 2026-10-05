@@ -21,7 +21,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 170 |
+| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 175 |
 | [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | ★ 1 |
 | [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | ★ 3 |
 | [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 3 |
@@ -41,9 +41,9 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,038 |
+| [wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) | Easy WordPress development with Docker | ★ 2,036 |
 | [jupyter-docker-compose](https://github.com/nezhar/jupyter-docker-compose) | Easy Jupyter development with Docker | ★ 73 |
-| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 175 |
+| [claude-container](https://github.com/nezhar/claude-container) | Container workflow for Claude Code | ★ 173 |
 
 **Django & API Tooling**
 
@@ -51,7 +51,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 |------------|-------------|-------|
 | [django-rest-passwordreset](https://github.com/anexia-it/django-rest-passwordreset) | Configurable password reset for Django REST Framework | ★ 437 |
 | [django-request-cache](https://github.com/anexia/django-request-cache) | Per-request cache scoped to the request/response cycle | ★ 29 |
-| [updatable](https://github.com/nezhar/updatable) | Identifies outdated packages in Python environments | ★ 23 |
+| [updatable](https://github.com/nezhar/updatable) | Identifies outdated packages in Python environments | ★ 24 |
 | [drf-multitokenauth](https://github.com/anexia/drf-multitokenauth) | Multiple auth tokens per user for Django REST Framework | ★ 13 |
 | [django-cleanhtmlfield](https://github.com/anexia/django-cleanhtmlfield) | HTML sanitization field for Django models | ★ 7 |
 | [drf-ip-restrictions](https://github.com/anexia/drf-ip-restrictions) | IP-based access control for Django REST Framework | ★ 4 |
