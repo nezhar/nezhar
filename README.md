@@ -21,7 +21,7 @@ I contribute to open source and write about software, AI, and infrastructure at 
 
 | Repository | Description | Stars |
 |------------|-------------|-------|
-| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 191 |
+| [vibepod-cli](https://github.com/vibepod/vibepod-cli) | The main CLI | ★ 196 |
 | [vibepod-proxy](https://github.com/vibepod/vibepod-proxy) | Traffic capture & logging | ★ 1 |
 | [vibepod-datasette](https://github.com/vibepod/vibepod-datasette) | Analytics dashboard | ★ 3 |
 | [vibepod-agents](https://github.com/vibepod/vibepod-agents) | Agent definitions | ★ 3 |
